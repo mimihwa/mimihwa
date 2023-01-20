@@ -1,4 +1,4 @@
-#<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa8a2,100:ff7664&height=190&section=header&text=MiMihwa%20World%20☘&fontSize=32&fontColor=fff&fontAlignY=36/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffa8a2,100:ff7664&height=190&section=header&text=MiMihwa%20World%20☘&fontSize=32&fontColor=fff&fontAlignY=36)
 
 <!--
 **mimihwa/mimihwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
